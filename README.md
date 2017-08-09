@@ -9,14 +9,13 @@ That black screen (or window) is the command line, where you're able to enter co
 
 In this introductory lesson to the command line, you will learn how to navigate around your computer and how to manipulate files and directories(also known as folders) all from the comfort of the command line. As you will soon see this is not as difficult as you may think. The commands you will learn in this lesson are very intuitive so don't let the the prospect of using the command line for the first time intimidate you.
 
-##Why learn this now?
+## Why learn this now?
 
 You will be making heavy use of the command line throughout this curriculum, the installations project which is at the end of this section will require you to install a lot of different kinds of software through the command line and you will be using GIT(more on this later) primarily with the command line. Bigger picture, you will be using the command line on a daily basis in your career as a software developer. It will be an indispensable skill in your toolset.
 
 ## Points to Ponder
 
 *Look through these now and then use them to test yourself after doing the assignment*
-
 
 * What is the command line?
 * How do you open it on your computer?
@@ -32,11 +31,9 @@ You will be making heavy use of the command line throughout this curriculum, the
 
 ## Assignment:
 
-*Note: Many of these assume you're using a Mac or a Linux environment. You can skip ahead to the installations section and follow the instructions to install Linux or use an online IDE like [cloud 9](https://c9.io/) or [Nitrous.io](https://www.nitrous.io/) They have a terminal window you can practice with.*
-
 1. To get an initial high-level overview of the command line, check out [A Command Line Crash Course](http://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) from the Viking Code School Prep Work.
 2. Complete the first 2 sections of this interactive Codecademy course to get a great handle on navigating and manipulating directories and files [command line course](https://www.codecademy.com/en/courses/learn-the-command-line).
-3. Finally, go through Chapter 1 of [Conquering the Command Line](http://conqueringthecommandline.com/book/basics)
+3. Finally, go through Chapter 1 of [Conquering the Command Line](http://conqueringthecommandline.com/book/basics).
 
 ## Exercise:
 In this exercise you will practice creating files and directories and deleting them.
